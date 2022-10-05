@@ -4,7 +4,7 @@
 
 # Demos
 
-## Usuários, grupos e permissÕes
+## Usuários, grupos e permissões
 
 ```bash
 # create user and group
